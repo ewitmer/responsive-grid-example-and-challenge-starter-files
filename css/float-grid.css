@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 /* Grid measurements:
@@ -60,14 +60,16 @@
 
   /* 4 columns */
   .col-4 {
+    width: 33.333%;
   }
 
   /* 6 columns */
   .col-6 {
-
+    width: 50%;
   }
 
   /* 12 columns */
   .col-12 {
+    width: 100%;
   }
 }
